@@ -72,15 +72,6 @@
 
 ---
 
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zmanangon09&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmanangon09&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
 <p align="center">
   <a href="https://orcid.org/0009-0000-5625-4980">ORCID</a> ·
   <a href="[tu-linkedin]">LinkedIn</a>
