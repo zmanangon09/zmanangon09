@@ -2,9 +2,9 @@
 
 # Zaith Alejandro Manangón Vinueza
 
-### Software Engineering Student · Full-Stack Developer · Research Enthusiast
+### Estudiante de Ingeniería de Software · Desarrollador Full-Stack · Entusiasta de la Investigación
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineering+Student;Machine+Learning+Enthusiast;Cloud+%26+DevOps+Learner;Research+and+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desarrollador+Full-Stack;Estudiante+de+Ingenier%C3%ADa+de+Software;Entusiasta+del+Machine+Learning;Aprendiz+de+Cloud+%26+DevOps;Investigaci%C3%B3n+e+Innovaci%C3%B3n" alt="Typing SVG" />
 
 <br>
 
@@ -17,82 +17,82 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Sobre mí
 
-I'm a **7th-semester Software Engineering student** at the **Universidad de las Fuerzas Armadas ESPE (Ecuador)**, passionate about building scalable software solutions, web applications, machine learning systems, and cloud-native architectures.
+Soy **estudiante de séptimo semestre de Ingeniería de Software** en la **Universidad de las Fuerzas Armadas ESPE (Ecuador)**, apasionado por construir soluciones de software escalables, aplicaciones web, sistemas de machine learning y arquitecturas cloud-native.
 
-I don't believe in being tied to a single stack. Instead, I choose technologies based on the problem being solved, allowing me to adapt quickly to different architectures, environments, and project requirements.
+No creo en atarse a un solo stack. Elijo las tecnologías según el problema a resolver, lo que me permite adaptarme con rapidez a distintas arquitecturas, entornos y requerimientos de cada proyecto.
 
-### What drives me
+### Lo que me mueve
 
-* 🚀 Building end-to-end software solutions
-* 🧠 Applying Machine Learning to real-world problems
-* 🏗 Designing scalable architectures
-* ☁️ Cloud deployment and automation
-* 🐧 Linux systems and infrastructure
-* 🔬 Research and innovation in software engineering
+* 🚀 Construir soluciones de software de extremo a extremo
+* 🧠 Aplicar Machine Learning a problemas reales
+* 🏗 Diseñar arquitecturas escalables
+* ☁️ Despliegue y automatización en la nube
+* 🐧 Sistemas Linux e infraestructura
+* 🔬 Investigación e innovación en ingeniería de software
 
 ---
 
-# 🎓 Academic & Research Background
+# 🎓 Formación Académica e Investigación
 
 ### Universidad de las Fuerzas Armadas ESPE
-**Software Engineering — 7th Semester**
+**Ingeniería de Software — Séptimo semestre**
 
-### Academic Participation
+### Participación Académica
 
 🇵🇪 **IV Congreso Internacional de Innovación, Ciencia y Tecnología (INUDI–UH 2026)**
-Organized by:
+Organizado por:
 * Universidad Hipócrates (México)
 * Instituto Universitario de Innovación, Ciencia y Tecnología INUDI Perú
 
 🇪🇨 **Congreso de Innovación y Tecnología (CIT 2026)**
-Organized by:
+Organizado por:
 * Universidad de las Fuerzas Armadas ESPE
 
-### Research Interests
+### Intereses de Investigación
 
-* Artificial Intelligence
+* Inteligencia Artificial
 * Machine Learning
-* Software Engineering
-* Data Science
-* Software Architecture
+* Ingeniería de Software
+* Ciencia de Datos
+* Arquitectura de Software
 * Cloud Computing
-* Health Informatics
+* Informática en Salud
 
 ---
 
-# 🚀 Areas of Expertise
+# 🚀 Áreas de Especialización
 
-### Full-Stack Development
-* Frontend architectures
-* Backend APIs
-* Authentication systems
-* Database design
-* Cloud deployment
-* CI/CD automation
+### Desarrollo Full-Stack
+* Arquitecturas frontend
+* APIs backend
+* Sistemas de autenticación
+* Diseño de bases de datos
+* Despliegue en la nube
+* Automatización CI/CD
 
 ### Machine Learning
-* Data preprocessing
-* Predictive modeling
+* Preprocesamiento de datos
+* Modelado predictivo
 * XGBoost
-* Neural Networks
-* Model evaluation
-* Applied health analytics
+* Redes neuronales
+* Evaluación de modelos
+* Análisis aplicado a salud
 
-### DevOps & Infrastructure
+### DevOps e Infraestructura
 * Docker
 * GitHub Actions
-* Linux Administration
+* Administración de Linux
 * AWS
 * Vercel
 * Render
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Stack Técnico
 
-## Languages
+## Lenguajes
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -126,14 +126,14 @@ Organized by:
 
 ---
 
-## Mobile
+## Móvil
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-## Machine Learning & Data Science
+## Machine Learning y Ciencia de Datos
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat-square)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F79E1E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -142,7 +142,7 @@ Organized by:
 
 ---
 
-## Databases
+## Bases de Datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -153,7 +153,7 @@ Organized by:
 
 ---
 
-## Cloud, DevOps & Tools
+## Cloud, DevOps y Herramientas
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -164,40 +164,10 @@ Organized by:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
-
-# 📌 Featured Projects
-
-## 🫀 Heart Disease Prediction
-
-Machine Learning system for cardiovascular disease prediction using CRISP-DM methodology.
-
-### Highlights
-* Comparison between XGBoost and MLP
-* Dataset with 918 clinical records
-* ROC-AUC > 0.90
-* Web-based diagnosis interface
-* Explainable predictive analysis
-
-### Technologies
-Python · XGBoost · Scikit-Learn · Flask · React
-
-🔗 Repository: https://github.com/zmanangon09/heart-disease
 
 ---
 
-## 🌊 PageWave
-
-Corporate landing page built with modern web technologies and mobile-first design.
-
-### Technologies
-Next.js 15 · React 19 · TypeScript · Tailwind CSS
-
-🔗 Repository: https://github.com/wavedev1796/PageWave
-
----
-
-# 📈 GitHub Statistics
+# 📈 Estadísticas de GitHub
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmanangon09&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -214,24 +184,24 @@ Next.js 15 · React 19 · TypeScript · Tailwind CSS
 
 ---
 
-# 📊 Quick Facts
+# 📊 Datos Rápidos
 
-* 🎓 Software Engineering Student (7th Semester)
-* 🌎 International Academic Participation
-* 🚀 Full-Stack Developer
-* 🤖 Machine Learning Enthusiast
-* 🐳 Docker User
-* ☁️ Cloud Deployment Experience
-* 🔄 CI/CD with GitHub Actions
-* 🐧 Linux Power User
+* 🎓 Estudiante de Ingeniería de Software (séptimo semestre)
+* 🌎 Participación académica internacional
+* 🚀 Desarrollador Full-Stack
+* 🤖 Entusiasta del Machine Learning
+* 🐳 Usuario de Docker
+* ☁️ Experiencia en despliegue en la nube
+* 🔄 CI/CD con GitHub Actions
+* 🐧 Usuario avanzado de Linux
 
 ---
 
-# 📫 Let's Connect
+# 📫 Conectemos
 
 <div align="center">
 
-### Open to academic collaborations, research opportunities and innovative software projects.
+### Abierto a colaboraciones académicas, oportunidades de investigación y proyectos de software innovadores.
 
 📧 **[a.manangon09@gmail.com](mailto:a.manangon09@gmail.com)**
 
