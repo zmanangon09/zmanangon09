@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Zaith Alejandro Manangón Vinueza 👋
+# HZaith Alejandro Manangón Vinueza 
 
 ### Estudiante de Ingeniería de Software · Desarrollador Full-Stack
 
