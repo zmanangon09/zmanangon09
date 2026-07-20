@@ -61,34 +61,6 @@ Organizado por:
 
 ---
 
-# 🚀 Áreas de Especialización
-
-### Desarrollo Full-Stack
-* Arquitecturas frontend
-* APIs backend
-* Sistemas de autenticación
-* Diseño de bases de datos
-* Despliegue en la nube
-* Automatización CI/CD
-
-### Machine Learning
-* Preprocesamiento de datos
-* Modelado predictivo
-* XGBoost
-* Redes neuronales
-* Evaluación de modelos
-* Análisis aplicado a salud
-
-### DevOps e Infraestructura
-* Docker
-* GitHub Actions
-* Administración de Linux
-* AWS
-* Vercel
-* Render
-
----
-
 # 🛠 Stack Técnico
 
 ## Lenguajes
