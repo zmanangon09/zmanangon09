@@ -202,10 +202,6 @@ Next.js 15 · React 19 · TypeScript · Tailwind CSS
 
 # 📈 Estadísticas de GitHub
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmanangon09&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmanangon09&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=zmanangon09&theme=tokyonight&hide_border=true"/>
