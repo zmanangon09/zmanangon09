@@ -39,8 +39,7 @@ Perfeccionista con el código y terco con los bugs: no suelto uno hasta verlo re
 - 🫀 Puse a pelear **XGBoost vs. una red MLP** para predecir enfermedades cardíacas (CRISP-DM, ROC-AUC > 0.90) y lo convertí en una app de diagnóstico con Flask + React.
 - 🎤 Ponente en **INUDI–UH 2026** 🇵🇪 y **CIT 2026** 🇪🇨.
 - 🐧 Linux, Docker y automatizar todo lo que se repita más de dos veces.
-- 🎯 Buscando mi **práctica preprofesional** para meterle mano a proyectos reales.
-- 💬 Háblame de **arquitectura full-stack, ML aplicado o DevOps** y tienes toda mi atención.
+- 🎯 Buscando **prácticas preprofesionales** para seguir creciendo en el ámbito laboral.
 
 <br>
 
