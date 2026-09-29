@@ -1,213 +1,79 @@
 <div align="center">
 
-# Zaith Alejandro Manangón Vinueza
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:38BDF8&height=160&section=header&text=zaith.sh&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="banner">
 
-<img src="assets/profile.jpeg" alt="Zaith Manangón" width="180" style="border-radius:50%;" />
-
-
-### Estudiante de Ingeniería de Software · Desarrollador Full-Stack · Entusiasta de la Investigación
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desarrollador+Full-Stack;Estudiante+de+Ingenier%C3%ADa+de+Software;Entusiasta+del+Machine+Learning;Aprendiz+de+Cloud+%26+DevOps;Investigaci%C3%B3n+e+Innovaci%C3%B3n" alt="Typing SVG" />
+<!-- TYPING -->
+<a href="https://github.com/zmanangon09">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Zaith+-+Full-Stack+Developer;Next.js+%2F+NestJS+%2F+Machine+Learning;Software+Engineering+%40+ESPE+%F0%9F%87%AA%F0%9F%87%A8" alt="typing banner">
+</a>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaith-manangón/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alejandro.z_9/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.manangon09@gmail.com)
+<!-- SOCIALS -->
+<a href="https://www.linkedin.com/in/zaith-manangón/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="mailto:a.manangon09@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/alejandro.z_9/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=38BDF8" alt="Instagram"></a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=zmanangon09&style=flat&color=38BDF8&label=profile+views" alt="profile views">
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mí
+## Hola, soy Zaith 👋
 
-Soy **estudiante de séptimo semestre de Ingeniería de Software** en la **Universidad de las Fuerzas Armadas ESPE (Ecuador)**, apasionado por construir soluciones de software escalables, aplicaciones web, sistemas de machine learning y arquitecturas cloud-native.
+Estudiante de **Ingeniería de Software en la ESPE** (7.º semestre), desde Quito 🇪🇨.
 
-No creo en atarse a un solo stack. Elijo las tecnologías según el problema a resolver, lo que me permite adaptarme con rapidez a distintas arquitecturas, entornos y requerimientos de cada proyecto.
+- 🌊 Desarrollando en **[Wavesea](https://github.com/wavedev1796)**: Wave CRM y PageWave.
+- 🫀 Proyecto de ML para **predicción de enfermedades cardíacas** (XGBoost vs MLP).
+- 🎤 Ponente en **INUDI–UH 2026** 🇵🇪 y **CIT 2026** 🇪🇨.
+- 🐧 Fan de Linux, Docker y automatizar todo lo que se repite.
 
-### Lo que me mueve
-
-*  Construir soluciones de software de extremo a extremo
-*  Aplicar Machine Learning a problemas reales
-*  Diseñar arquitecturas escalables
-*  Despliegue y automatización en la nube
-*  Sistemas Linux e infraestructura
-*  Investigación e innovación en ingeniería de software
-
----
-
-# 🎓 Formación Académica e Investigación
-
-### Universidad de las Fuerzas Armadas ESPE
-**Ingeniería de Software — Séptimo semestre**
-
-### Participación Académica
-
-🇵🇪 **IV Congreso Internacional de Innovación, Ciencia y Tecnología (INUDI–UH 2026)**
-Organizado por:
-* Universidad Hipócrates (México)
-* Instituto Universitario de Innovación, Ciencia y Tecnología INUDI Perú
-
-🇪🇨 **Congreso de Innovación y Tecnología (CIT 2026)**
-Organizado por:
-* Universidad de las Fuerzas Armadas ESPE
-
-### Intereses de Investigación
-
-* Inteligencia Artificial
-* Machine Learning
-* Ingeniería de Software
-* Ciencia de Datos
-* Arquitectura de Software
-* Cloud Computing
-* Informática en Salud
-
----
-
-# 🚀 Áreas de Especialización
-
-### Desarrollo Full-Stack
-* Arquitecturas frontend
-* APIs backend
-* Sistemas de autenticación
-* Diseño de bases de datos
-* Despliegue en la nube
-* Automatización CI/CD
-
-### Machine Learning
-* Preprocesamiento de datos
-* Modelado predictivo
-* XGBoost
-* Redes neuronales
-* Evaluación de modelos
-* Análisis aplicado a salud
-
-### DevOps e Infraestructura
-* Docker
-* GitHub Actions
-* Administración de Linux
-* AWS
-* Vercel
-* Render
-
----
-
-# 🛠 Stack Técnico
-
-## Lenguajes
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-
----
-
-## Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
----
-
-## Backend
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
----
-
-## Móvil
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-## Machine Learning y Ciencia de Datos
-
-![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F79E1E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
----
-
-## Bases de Datos
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
----
-
-## Cloud, DevOps y Herramientas
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-# 📌 Proyectos Destacados
-
-## 🫀 Predicción de Enfermedades Cardíacas
-
-Sistema de Machine Learning para la predicción de enfermedades cardiovasculares usando la metodología CRISP-DM.
-
-### Aspectos destacados
-* Comparación entre XGBoost y MLP
-* Dataset con 918 registros clínicos
-* ROC-AUC > 0.90
-* Interfaz de diagnóstico basada en web
-* Análisis predictivo explicable
-
-### Tecnologías
-Python · XGBoost · Scikit-Learn · Flask · React
-
-🔗 Repositorio: https://github.com/zmanangon09/heart-disease
-
----
-
-## 🌊 PageWave
-
-Landing page corporativa construida con tecnologías web modernas y diseño mobile-first.
-
-### Tecnologías
-Next.js 15 · React 19 · TypeScript · Tailwind CSS
-
-🔗 Repositorio: https://github.com/wavedev1796/PageWave
-
----
-
-# 📈 Estadísticas de GitHub
-
+<br>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=zmanangon09&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zmanangon09&theme=tokyo-night&hide_border=true&area=true"/>
+## stack
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nestjs,nodejs,fastapi,postgres,mongodb,supabase,docker,aws,linux,git,flutter,vercel&perline=9" alt="tech stack">
+
 </div>
 
 ---
+
+<div align="center">
+
+## proyectos
+
+| | Proyecto | Stack |
+|:-:|:--|:--|
+| 🌊 | **[Wave CRM](https://github.com/wavedev1796/WaveCRM)** · CRM para Wavesea | Next.js · NestJS · TypeScript |
+| 🫀 | **[Heart Disease](https://github.com/zmanangon09/heart-disease)** · Predicción cardiovascular con CRISP-DM | Python · XGBoost · Flask · React |
+| 🏄 | **[PageWave](https://github.com/wavedev1796/PageWave)** · Landing corporativa mobile-first | Next.js 15 · React 19 · Tailwind |
+
+</div>
+
+---
+
+<div align="center">
+
+## números
+
+<img src="https://streak-stats.demolab.com/?user=zmanangon09&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zmanangon09&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=ffffff" width="100%" alt="activity graph">
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>`built with ☕ from Quito`</sub>
+
+</div>
