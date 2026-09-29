@@ -4,7 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:38BDF8&height=160&section=header&text=zaith.sh&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="banner">
 
 <!-- FOTO -->
-<img src="assets/profile.jpeg" alt="Zaith Manangón" width="160">
+<p align="center">
+  <img src="assets/profile.jpeg" alt="Zaith Manangón" width="160">
+</p>
 
 <!-- TYPING -->
 <a href="https://github.com/zmanangon09">
