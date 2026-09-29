@@ -13,7 +13,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaith-manangón/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alejandro.z_9/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5625-4980)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.manangon09@gmail.com)
 
 </div>
@@ -28,12 +27,12 @@ No creo en atarse a un solo stack. Elijo las tecnologías según el problema a r
 
 ### Lo que me mueve
 
-* 🚀 Construir soluciones de software de extremo a extremo
-* 🧠 Aplicar Machine Learning a problemas reales
-* 🏗 Diseñar arquitecturas escalables
-* ☁️ Despliegue y automatización en la nube
-* 🐧 Sistemas Linux e infraestructura
-* 🔬 Investigación e innovación en ingeniería de software
+*  Construir soluciones de software de extremo a extremo
+*  Aplicar Machine Learning a problemas reales
+*  Diseñar arquitecturas escalables
+*  Despliegue y automatización en la nube
+*  Sistemas Linux e infraestructura
+*  Investigación e innovación en ingeniería de software
 
 ---
 
