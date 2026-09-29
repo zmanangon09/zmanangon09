@@ -36,7 +36,7 @@ Estudiante de **Ingeniería de Software en la ESPE** (7.º semestre), desde Quit
 
 <div align="center">
 
-## stack
+## Stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nestjs,nodejs,fastapi,postgres,mongodb,supabase,docker,aws,linux,git,flutter,vercel&perline=9" alt="tech stack">
 
@@ -46,7 +46,7 @@ Estudiante de **Ingeniería de Software en la ESPE** (7.º semestre), desde Quit
 
 <div align="center">
 
-## proyectos
+## Proyectos
 
 | | Proyecto | Stack |
 |:-:|:--|:--|
