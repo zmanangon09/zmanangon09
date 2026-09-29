@@ -3,6 +3,9 @@
 <!-- BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:38BDF8&height=160&section=header&text=zaith.sh&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="banner">
 
+<!-- FOTO -->
+<img src="assets/profile.jpeg" alt="Zaith Manangón" width="160">
+
 <!-- TYPING -->
 <a href="https://github.com/zmanangon09">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Zaith+-+Full-Stack+Developer;Next.js+%2F+NestJS+%2F+Machine+Learning;Software+Engineering+%40+ESPE+%F0%9F%87%AA%F0%9F%87%A8" alt="typing banner">
